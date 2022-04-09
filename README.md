@@ -1,7 +1,7 @@
 ### Hi, I'm Pedro Grigorio! 👋
 
-I’m a Computer Engineering Student at University Federal of Ceará. Currently, studying 
-I’m currently learning Python
+I’m a Computer Engineering Student at Federal University of Ceará.
+I'm currently learning Python.
 
 <div align="center">
   <a href="https://github.com/pedrogrigorio">
