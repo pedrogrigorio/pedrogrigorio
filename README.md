@@ -2,7 +2,7 @@
 
 I’m currently a **Computer Engineering Student at Federal University of Ceará**
 
-I'm currently **learning Python**
+I'm studying **Python for Data Science**
 
 <div align="center">
   <a href="https://github.com/pedrogrigorio">
