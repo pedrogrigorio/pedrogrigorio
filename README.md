@@ -1,8 +1,8 @@
 ### Hi, I'm Pedro Grigorio! 👋
 
-I’m currently a **Computer Engineering Student at Federal University of Ceará**
+I’m currently a **Software Engineering Student at Federal University of Ceará**
 
-I'm studying **Python for Data Science**
+I'm studying **Web and Mobile Development**
 
 <div align="center">
   <a href="https://github.com/pedrogrigorio">
