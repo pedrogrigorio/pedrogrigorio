@@ -2,7 +2,7 @@
 
 I’m currently a **Software Engineering Student at Federal University of Ceará**
 
-I'm studying **Web and Mobile Development**
+I'm studying **Web Development**
 
 <div align="center">
   <a href="https://github.com/pedrogrigorio">
@@ -18,7 +18,6 @@ I'm studying **Web and Mobile Development**
   <img align="center" alt="Nest.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="Prisma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<!--   <img align="center" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"> -->
 </div>
   
   ##
